@@ -20,23 +20,18 @@
 ## 📊 Estatísticas & Tecnologias
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allangaiteir00&layout=compact&theme=tokyonight&custom_title=Linguagens+Mais+Usadas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allangaiteir00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=allangaiteir00&layout=compact&theme=tokyonight&custom_title=Linguagens+Mais+Usadas"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=allangaiteir00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
 
 ## 🚀 Projetos em Destaque
-*(Cards dinâmicos utilizando as APIs do GitHub! Modifique o parâmetro `repo=` para exibir os seus repositórios reais).*
+*(Esses cards são renderizados dinamicamente pelo GitHub Actions que varre os seus repositórios ativos!)*
 
-<div align="center">
-  <a href="https://github.com/allangaiteir00/SEU_REPOSITORIO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=allangaiteir00&repo=SEU_REPOSITORIO_1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/allangaiteir00/SEU_REPOSITORIO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=allangaiteir00&repo=SEU_REPOSITORIO_2&theme=tokyonight" />
-  </a>
-</div>
+<!-- START_REPOS -->
+<!-- END_REPOS -->
+
 
 ---
 
