@@ -30,6 +30,17 @@
 *(Esses cards são renderizados dinamicamente pelo GitHub Actions que varre os seus repositórios ativos!)*
 
 <!-- START_REPOS -->
+<div align="center">
+  <a href="https://github.com/allangaiteir00/carrer-match-ai">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=carrer-match-ai&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/allangaiteir00/portifolio">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=portifolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/allangaiteir00/insight-ai">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=insight-ai&theme=tokyonight" />
+  </a>
+</div>
 <!-- END_REPOS -->
 
 
