@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou Allan Gaiteiro
 
-<!--
-**allangaiteir00/allangaiteir00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 FullStack Developer  
+🚀 Especialista em Angular, Django e Arquitetura de Microsserviços  
+📊 Criando soluções SaaS e plataformas de analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- Angular
+- TypeScript
+- Python
+- Django
+- Docker
+- PostgreSQL
+
+---
+
+## 📈 Estatísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=allangaiteiro&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/seu-link
+- Email: seu@email.com
