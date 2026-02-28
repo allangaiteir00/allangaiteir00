@@ -9,24 +9,34 @@
 
 <br>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,angular,django,react,docker,postgres,git,github,linux,aws&theme=dark" />
-  </a>
-</div>
+## 📊 Tech Stack & Domínios Arquiteturais
 
-<br>
-
-## 📊 Estatísticas & Tecnologias
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=allangaiteir00&layout=compact&theme=tokyonight&custom_title=Linguagens+Mais+Usadas"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=allangaiteir00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <br>
+      <b>Cloud & DevOps</b><br>
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions&theme=dark" /><br>
+      Containers, Pipelines, AWS Services
+    </td>
+    <td align="center" width="250">
+      <br>
+      <b>Backend & APIs</b><br>
+      <img src="https://skillicons.dev/icons?i=python,django,postgres,nodejs&theme=dark" /><br>
+      Microsserviços, REST, Bancos SQL
+    </td>
+    <td align="center" width="250">
+      <br>
+      <b>Frontend & SPA</b><br>
+      <img src="https://skillicons.dev/icons?i=angular,react,ts,js&theme=dark" /><br>
+      Componentização, Estado, SSR
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque & Pipeline Status
 *(Esses cards são renderizados dinamicamente pelo GitHub Actions que varre os seus repositórios ativos!)*
 
 <!-- START_REPOS -->
@@ -43,11 +53,43 @@
 </div>
 <!-- END_REPOS -->
 
+---
+
+## 🏗️ Arquitetura de Referência (Cloud Native)
+
+Como eu prevejo o ciclo de vida de uma aplicação moderna, do Edge às Bases de Dados:
+
+```mermaid
+graph TD
+    Client([💻 Web/Mobile Client]) --> CDN[⚡ CloudFront / CDN]
+    CDN --> API[🚪 API Gateway]
+    
+    subgraph Microservices Cluster
+        API --> Auth[🔐 Auth Service]
+        API --> App1[⚙️ Core Service]
+        API --> App2[📊 Analytics Service]
+    end
+    
+    App1 --> DB[(🐘 PostgreSQL)]
+    App1 --> Cache[(⚡ Redis)]
+    App2 --> EventBus{📨 Message Broker Kafka/RabbitMQ}
+    EventBus --> Worker[👷 Background Workers]
+```
+
+-----
 
 ---
 
-## 🐍 Snake Game (GitHub Contributions)
-Aqui está uma cobrinha se alimentando do meu histórico de contribuições no GitHub e crescendo! 🍕
+## 👨‍💻 Atividade Recente (Terminal Log)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allangaiteir00&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Commits History (Snake Game)
+Acompanhamento visual diário:
 
 <div align="center">
   <picture>
@@ -57,7 +99,7 @@ Aqui está uma cobrinha se alimentando do meu histórico de contribuições no G
   </picture>
 </div>
 
-*(Criado automaticamente utilizando GitHub Actions! Verifique a aba **Actions** no seu repositório para ativar caso seja necessário)*
+*(Gerado via [GitHub Actions](https://github.com/allangaiteir00/allangaiteir00/actions))*
 
 ---
 
