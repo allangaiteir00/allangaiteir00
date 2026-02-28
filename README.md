@@ -39,16 +39,21 @@
 ## 🚀 Projetos em Destaque & Pipeline Status
 *(Esses cards são renderizados dinamicamente pelo GitHub Actions que varre os seus repositórios ativos!)*
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=allangaiteir00&layout=compact&theme=github_dark&custom_title=Linguagens+Mais+Usadas"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=allangaiteir00&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
+
 <!-- START_REPOS -->
 <div align="center">
   <a href="https://github.com/allangaiteir00/carrer-match-ai">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=carrer-match-ai&theme=tokyonight" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=carrer-match-ai&theme=github_dark" />
   </a>
   <a href="https://github.com/allangaiteir00/portifolio">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=portifolio&theme=tokyonight" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=portifolio&theme=github_dark" />
   </a>
   <a href="https://github.com/allangaiteir00/insight-ai">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=insight-ai&theme=tokyonight" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=insight-ai&theme=github_dark" />
   </a>
 </div>
 <!-- END_REPOS -->
@@ -83,7 +88,7 @@ graph TD
 ## 👨‍💻 Atividade Recente (Terminal Log)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allangaiteir00&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allangaiteir00&theme=github-dark&hide_border=true&area=true" />
 </div>
 
 ---
