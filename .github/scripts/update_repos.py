@@ -27,7 +27,7 @@ top_repos = filtered_repos[:4]
 html_content = '<div align="center">\n'
 for repo in top_repos:
     html_content += f'  <a href="{repo["html_url"]}">\n'
-    html_content += f'    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username={USERNAME}&repo={repo["name"]}&theme=github_dark" />\n'
+    html_content += f'    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username={USERNAME}&repo={repo["name"]}&theme=tokyonight" />\n'
     html_content += f'  </a>\n'
 html_content += '</div>'
 
