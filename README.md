@@ -19,11 +19,11 @@
 
 ## 📈 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=allangaiteiro&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=allangaiteir00&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/seu-link
-- Email: seu@email.com
+- [LinkedIn](https://www.linkedin.com/in/allan-gaiteiro/) 
+- [Email](allangaiteir00@gmail.com)
