@@ -41,6 +41,9 @@
 
 <!-- START_REPOS -->
 <div align="center">
+  <a href="https://github.com/allangaiteir00/tbn-spy-busca-message">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=tbn-spy-busca-message&theme=tokyonight" />
+  </a>
   <a href="https://github.com/allangaiteir00/portifolio-2026">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=portifolio-2026&theme=tokyonight" />
   </a>
@@ -49,9 +52,6 @@
   </a>
   <a href="https://github.com/allangaiteir00/carrer-match-ai">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=carrer-match-ai&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/allangaiteir00/insight-ai">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=allangaiteir00&repo=insight-ai&theme=tokyonight" />
   </a>
 </div>
 <!-- END_REPOS -->
